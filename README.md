@@ -1,8 +1,6 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 
-**Importante:** *La api key de pruebas de OpenWeather solo funciona para el current weather, para los otros ejercicios se utilizó un mockup que ofrece OpenWeather*
-
 1. **Instalar dependencias:**
 ```
 composer install
